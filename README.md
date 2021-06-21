@@ -1,20 +1,21 @@
 # Colorectal-Cancer-Detection
 Colorectal Cancer Detection Using Deep Learning
 
-1. Step 1 Import NumPy, TensorFlow and other required libraries
-1. Step 2 Read the data from a csv file
-Step 3 Check the shape and datatype
-Step 4 Reshape
-Step 5 Split the data into training and testing dataset
-Step 6 Using to_categorical in keras to get a binary class matrix from vector class
-Step 7 Define the model architecture
-Step 8 Compile the model using optimizer
-Step 9 Increasing the dataset using ‘ImageDataGenerator’
-Step 10 Fit the model
-Step 11 Evaluate the model
-Step 12 Plot the loss and accuracy
-Step 13 Print the Confusion Matrix
-Step 14 Print the model summary
+## Algorithm
+1. Import NumPy, TensorFlow and other required libraries
+1. Read the data from a csv file
+1. Check the shape and datatype
+1. Reshape
+1. Split the data into training and testing dataset
+1. Using to_categorical in keras to get a binary class matrix from vector class
+1. Define the model architecture
+1. Compile the model using optimizer
+1. Increasing the dataset using ‘ImageDataGenerator’
+1. Fit the model
+1. Evaluate the model
+1. Plot the loss and accuracy
+1. Print the Confusion Matrix
+1. Print the model summary
 
 
 I have considered the dataset from Kaggle, referenced below, which is collection of textures of the histological images of human Colorectal Cancer.

@@ -1,8 +1,8 @@
 # Colorectal-Cancer-Detection
 Colorectal Cancer Detection Using Deep Learning
 
-Step 1 Import NumPy, TensorFlow and other required libraries
-Step 2 Read the data from a csv file
+1. Step 1 Import NumPy, TensorFlow and other required libraries
+1. Step 2 Read the data from a csv file
 Step 3 Check the shape and datatype
 Step 4 Reshape
 Step 5 Split the data into training and testing dataset
